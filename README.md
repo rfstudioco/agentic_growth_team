@@ -4,8 +4,6 @@
 > A modular, AARRR-aligned team of Claude agents that runs your growth org.
 > Inspired by the Claude Fundraising Team pattern — purpose-built for growth marketers, founders, and solo operators who want leverage without hiring.
 
-![Status: Private](https://img.shields.io/badge/status-private-black)
-![Access: Gated](https://img.shields.io/badge/access-gated-red)
 ![Version: 0.1.0](https://img.shields.io/badge/version-0.1.0-blue)
 
 ---
