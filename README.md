@@ -1,4 +1,5 @@
-# Claude Growth Team
+# Agentic Growth Team
+## 28 AI Agents for your AARRR funnels
 
 > A modular, AARRR-aligned team of Claude agents that runs your growth org.
 > Inspired by the Claude Fundraising Team pattern — purpose-built for growth marketers, founders, and solo operators who want leverage without hiring.
