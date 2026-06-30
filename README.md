@@ -6,24 +6,7 @@
 
 ![Version: 0.1.0](https://img.shields.io/badge/version-0.1.0-blue)
 
----
-
-## Access Gate
-
-**This repository is private and distributed invite-only.**
-
-You're reading this because you were given access by the maintainer (RFStudio). Please do not fork, mirror, redistribute, or post excerpts publicly without written permission.
-
-To request access or collaborate:
-
-- Email: **growth@rfstudio.co**
-- Put `Claude Growth Team — access request` in the subject line
-- Include: your name, company, what you'd use it for, and who referred you
-
-Access is granted case-by-case. Read [ACCESS.md](./ACCESS.md) for the full policy and [LICENSE.md](./LICENSE.md) for usage terms.
-
----
-
+-- 
 ## What this is
 
 The Claude Growth Team is a coordinated set of 28 Claude agents (skills) organized around the **AARRR funnel** — Acquisition, Activation, Retention, Revenue, Referral — plus a cross-functional **Data Ops & Experimentation** squad.
